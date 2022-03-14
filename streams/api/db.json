@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "jsx-flv",
+      "userId": "112720816351529407530",
+      "id": 2
+    }
+  ]
+}
